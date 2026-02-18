@@ -88,3 +88,10 @@ Python source code → compiled to bytecode → executed by the Python Virtual M
   - Recommended for all new development
 
 **Current recommendation : Always use Python 3.10 or newer (preferably the latest stable version).**
+
+## Installation 
+- Download python installer from : https://www.python.org/downloads/ and install it.
+- Check the installation using the following command in terminal : 
+```bash
+python --version
+```
